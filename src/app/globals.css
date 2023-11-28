@@ -48,6 +48,8 @@ a {
   color: unset !important;
 }
 
+ul{padding: unset !important;}
+
 .btn-main {
   background-color: var(--main-color) !important;
 }

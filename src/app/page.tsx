@@ -1,3 +1,4 @@
+import Contact from "@/components/Contact";
 import Differentials from "@/components/Differentials";
 import Feedbacks from "@/components/Feedbacks";
 import Footer from "@/components/Footer";
@@ -15,6 +16,7 @@ export default function Home() {
         <Differentials />
         <Feedbacks />
         <Plans />
+        <Contact />
       </main>
 
       <Footer />
