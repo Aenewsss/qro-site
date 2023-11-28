@@ -2,7 +2,7 @@ import Button from "./Button";
 
 const Feedbacks = () => {
     return (
-        <section className="mt-5 container pt-5" id="feedbacks">
+        <section className="mt-5 container pt-5 pb-5" id="feedbacks">
             <h2 className="display-4 text-center">Veja o que nossos clientes estão dizendo</h2>
 
             <div className="col-md-12 d-flex flex-column align-items-center justify-content-between">
